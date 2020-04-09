@@ -1,0 +1,299 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style8 {
+  background-color: #f6f8f9;
+  margin-left: 0;
+  margin-top: 0;
+  width: 100%;
+  height: 5vh
+}
+.desktop1row1,
+.style0 {
+  display: flex;
+  margin-left: 0
+}
+.desktop1row1 {
+  height: 60vh;
+  align-items: center;
+  width: 100%
+}
+.style0 {
+  background-image: url(https://designresources.assets.yotako.io/80syc5kkfk8swpr1z.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  width: 58.333333333333336%;
+  height: 100%;
+  flex-direction: column
+}
+.style6 {
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  line-height: 42px;
+  margin-left: 23.333333333333332%;
+  margin-top: 7.375vh;
+  width: 71.42857142857143%
+}
+.style1,
+.style2,
+.style6 {
+  color: #fff;
+  font-family: Helvetica,serif
+}
+.style2 {
+  font-weight: 700;
+  margin-left: 23.333333333333332%;
+  font-size: 1.6666666666666667vw;
+  line-height: 34px;
+  margin-top: 3.3333333333333335vh;
+  width: 71.42857142857143%
+}
+.style1 {
+  font-size: 1.1111111111111112vw;
+  line-height: 26px;
+  margin-top: .4166666666666667vh;
+  width: 66.66666666666666%;
+  align-self: center
+}
+.style3,
+.style4 {
+  display: flex;
+  align-items: center
+}
+.style3 {
+  margin-left: 23.333333333333332%;
+  margin-top: 1.25vh;
+  width: 15.95238095238095%;
+  height: 6.666666666666667%
+}
+.style4 {
+  background-color: #fa6980;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 6px
+}
+.style5 {
+  color: #fff;
+  text-align: center;
+  font-family: Helvetica,serif;
+  font-size: .7638888888888888vw;
+  font-weight: 700;
+  line-height: 20px;
+  width: 55.223880597014926%
+}
+.style9 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 0;
+  width: 41.66666666666667%;
+  height: 100%;
+  flex-direction: column
+}
+.desktop1row1container2row0 {
+  display: flex;
+  margin-left: 16.666666666666668%;
+  margin-top: 4.166666666666667vh;
+  width: 63.33333333333333%;
+  height: 3.3333333333333335%;
+  align-items: center
+}
+.style10 {
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 1.6666666666666667vw;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 0;
+  width: 87.10526315789474%
+}
+.style13 {
+  display: flex;
+  margin-left: 22.77777777777778vw;
+  width: 1.5789473684210527%;
+  height: 50%;
+  align-items: center;
+  flex-direction: column
+}
+.style14 {
+  width: 100%;
+  height: 100%
+}
+.style11 {
+  display: flex;
+  margin-left: 2.7777777777777777vw;
+  width: 1.5789473684210527%;
+  height: 50%;
+  align-items: center;
+  flex-direction: column
+}
+.style12 {
+  width: 100%;
+  height: 100%
+}
+.desktop1row1container2row1 {
+  display: flex;
+  margin-left: 16.666666666666668%;
+  margin-top: 3.3333333333333335vh;
+  width: 70%;
+  height: 49.833333333333336%
+}
+.style16 {
+  display: flex;
+  width: 90.47619047619048%;
+  height: 100%;
+  flex-direction: column
+}
+.desktop1row1container2row1container5column0 {
+  display: flex;
+  margin-top: 0;
+  width: 110.5263157894737%;
+  height: 79.59866220735786%;
+  flex-direction: column
+}
+.style20 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 1.1111111111111112vw;
+  line-height: 26px;
+  margin-top: 0;
+  width: 90.47619047619048%
+}
+.desktop1row1container2row1container5column0row1 {
+  display: flex;
+  margin-top: .4166666666666667vh;
+  width: 20%;
+  height: 6.722689075630252%;
+  align-items: center
+}
+.style22 {
+  display: flex;
+  margin-left: 0;
+  width: 19.047619047619047%;
+  height: 100%;
+  align-items: center;
+  flex-direction: column
+}
+.style23 {
+  width: 100%;
+  height: 100%
+}
+.style21 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  line-height: 26px;
+  margin-left: .6944444444444444vw;
+  width: 69.04761904761905%
+}
+.desktop1row1container2row1container5column0row2 {
+  display: flex;
+  margin-top: 1.6666666666666667vh;
+  width: 100%;
+  height: 54.20168067226891%;
+  align-self: center
+}
+.style24 {
+  display: flex;
+  margin-left: 0;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  align-self: center;
+  flex-direction: column
+}
+.desktop1row1container2row1container5column0row2container8column0 {
+  display: flex;
+  margin-top: 0;
+  width: 100%;
+  height: 38.759689922480625%;
+  align-items: center;
+  flex-direction: column
+}
+.style25,
+.style26 {
+  font-family: Helvetica,serif;
+  font-size: 1.1111111111111112vw;
+  font-weight: 700;
+  line-height: 20px;
+  width: 100%
+}
+.style25 {
+  margin-top: 0;
+  color: #fa6980
+}
+.style26 {
+  color: #202124;
+  margin-top: .8333333333333334vh
+}
+.desktop1row1container2row1container5column0row2column0 {
+  display: flex;
+  margin-left: 0;
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  flex-direction: column
+}
+.style27 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 1.1111111111111112vw;
+  line-height: 26px;
+  margin-top: 2.5vh;
+  width: 90.47619047619048%
+}
+.desktop1row1container2row1container5column0row2column0row1 {
+  display: flex;
+  margin-top: .4166666666666667vh;
+  width: 20%;
+  height: 12.4031007751938%;
+  align-items: center
+}
+.style29 {
+  display: flex;
+  margin-left: 0;
+  width: 19.047619047619047%;
+  height: 100%;
+  align-items: center;
+  flex-direction: column
+}
+.style30 {
+  width: 100%;
+  height: 100%
+}
+.style28 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: .9027777777777778vw;
+  line-height: 26px;
+  margin-left: .6944444444444444vw;
+  width: 69.04761904761905%
+}
+.style17 {
+  display: flex;
+  width: 100%;
+  height: 43.1438127090301%;
+  align-items: center;
+  flex-direction: column
+}
+.style18,
+.style19 {
+  font-family: Helvetica,serif;
+  font-size: 1.1111111111111112vw;
+  font-weight: 700;
+  line-height: 20px;
+  width: 100%
+}
+.style18 {
+  margin-top: 0;
+  color: #fa6980
+}
+.style19 {
+  color: #202124;
+  margin-top: .8333333333333334vh
+}
